@@ -1,73 +1,80 @@
 # Ujwal Nagrikar
-**Cloud Engineer | DevOps Specialist | Infrastructure Automation Expert**
+**Cloud Engineer · DevOps Specialist · Infrastructure Automation**
+
+📧 ujjwalnagrikar@mail.com &nbsp;|&nbsp; 🔗 [linkedin.com/in/ujjwal-nagrikar-2631aa273](https://www.linkedin.com/in/ujjwal-nagrikar-2631aa273/)
 
 ---
 
-## Professional Summary
+## Summary
 
-Results-driven cloud and DevOps professional with expertise in designing, implementing, and managing scalable cloud infrastructure solutions. Experienced in containerization, infrastructure as code, and automation technologies. Committed to delivering robust, efficient, and cost-effective solutions that drive business objectives and operational excellence.
-
----
-
-## Technical Expertise
-
-### Cloud & Infrastructure
-- **Amazon Web Services (AWS)** - EC2, S3, VPC, IAM, CloudFormation
-- **Infrastructure as Code** - Terraform, CloudFormation
-- **Container Technologies** - Docker, Kubernetes
-- **Configuration Management** - Ansible, Puppet
-
-### Development & Automation
-- **Programming Languages** - Python, Shell Scripting
-- **Operating Systems** - Linux (Ubuntu, CentOS, RHEL)
-- **CI/CD Tools** - Jenkins, GitLab CI, GitHub Actions
-- **Monitoring & Logging** - CloudWatch, Prometheus, Grafana
-
-### Version Control & Collaboration
-- **Version Control** - Git, GitHub, GitLab
-- **Project Management** - Agile methodologies, Scrum
+Cloud and DevOps Engineer with hands-on expertise in designing and operating scalable, fault-tolerant infrastructure on AWS. Proven track record of reducing deployment times and cloud costs through Infrastructure as Code, containerization, and automation. Passionate about reliability engineering, continuous delivery, and emerging cloud-native technologies.
 
 ---
 
-## Professional Projects
+## Core Competencies
+
+| Domain | Technologies |
+|---|---|
+| **Cloud Platforms** | AWS (EC2, S3, VPC, IAM, CloudFormation) |
+| **Infrastructure as Code** | Terraform, AWS CloudFormation |
+| **Containers & Orchestration** | Docker, Kubernetes |
+| **Configuration Management** | Ansible, Puppet |
+| **CI/CD** | Jenkins, GitLab CI, GitHub Actions |
+| **Monitoring & Observability** | CloudWatch, Prometheus, Grafana |
+| **Programming & Scripting** | Python, Bash/Shell |
+| **Operating Systems** | Linux (Ubuntu, CentOS, RHEL) |
+| **Version Control** | Git, GitHub, GitLab |
+
+---
+
+## Projects
 
 ### Cloud Infrastructure Automation
-**Technologies:** Terraform, AWS, Python
-- Designed and implemented automated provisioning of AWS EC2 instances and S3 storage solutions
-- Reduced infrastructure deployment time by 75% through Infrastructure as Code practices
-- Established cost optimization strategies resulting in 30% reduction in cloud expenses
+`Terraform` `AWS` `Python`
+
+Designed and implemented an end-to-end automated provisioning pipeline for AWS EC2 and S3 resources using Terraform and Python.
+
+- Reduced infrastructure deployment time by **75%** by migrating manual provisioning workflows to fully declarative IaC
+- Identified and applied cloud cost optimization strategies, achieving a **30% reduction** in monthly AWS spend
+- Established reusable Terraform module library, enabling consistent and auditable infrastructure rollouts across environments
+
+---
 
 ### Microservices Container Orchestration
-**Technologies:** Docker, Kubernetes, YAML
-- Architected and deployed scalable microservices architecture using containerization
-- Implemented Kubernetes cluster management for high availability and load distribution
-- Established automated scaling policies to handle varying workload demands
+`Docker` `Kubernetes` `YAML`
+
+Architected a containerized microservices platform to support high-availability application workloads.
+
+- Designed and deployed multi-node Kubernetes clusters with automated scaling policies to handle dynamic traffic patterns
+- Implemented rolling update and blue-green deployment strategies to achieve zero-downtime releases
+- Configured resource quotas, namespaces, and RBAC policies to enforce security and workload isolation
+
+---
 
 ### Infrastructure Automation Suite
-**Technologies:** Python, Shell Scripting, Linux
-- Developed comprehensive automation scripts for server provisioning and maintenance
-- Created monitoring and alerting systems for proactive infrastructure management
-- Implemented backup and disaster recovery procedures across multiple environments
+`Python` `Shell Scripting` `Linux`
+
+Built a comprehensive suite of automation tools for server lifecycle management, monitoring, and disaster recovery.
+
+- Authored provisioning and configuration scripts that reduced manual server setup time across multiple environments
+- Developed custom monitoring and alerting integrations with Prometheus and Grafana for proactive incident detection
+- Implemented automated backup and disaster recovery procedures, ensuring data integrity and business continuity
 
 ---
 
-## Professional Objectives
+## Areas of Focus
 
-Seeking opportunities to leverage extensive cloud and DevOps expertise in designing enterprise-grade infrastructure solutions. Focused on continuous learning and implementation of emerging technologies to drive digital transformation initiatives and operational efficiency.
-
-**Current Focus Areas:**
-- Advanced Kubernetes orchestration and service mesh technologies
-- Multi-cloud deployment strategies and hybrid cloud solutions
-- Security best practices and compliance automation
-- Site Reliability Engineering (SRE) principles and practices
+- Advanced Kubernetes orchestration and service mesh (Istio, Linkerd)
+- Multi-cloud and hybrid cloud deployment strategies
+- Security automation and compliance-as-code
+- Site Reliability Engineering (SRE) — SLOs, error budgets, toil reduction
 
 ---
 
-## Professional Contact
+## Education & Certifications
 
-**Email:** ujjwalnagrikar@mail.com  
-**LinkedIn:** [linkedin.com/in/ujjwal-nagrikar-2631aa273](https://www.linkedin.com/in/ujjwal-nagrikar-2631aa273/)
+> *Add your degree, university, graduation year, and any relevant certifications here (e.g., AWS Certified Solutions Architect, CKA).*
 
 ---
 
-*Dedicated to building reliable, scalable, and innovative cloud solutions that empower businesses to achieve their strategic objectives.*
+*Open to roles in cloud infrastructure, DevOps, and platform engineering. Available for full-time and contract engagements.*
