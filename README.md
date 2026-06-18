@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ujwal%20Nagrikar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cloud%20Engineer%20|%20DevOps%20%26%20SRE%20Specialist%20|%20Platform%20Builder&descAlignY=58&descSize=18"/>
+<h1>Ujwal Nagrikar</h1>
+<p><strong>Cloud Engineer | DevOps & SRE Specialist | Platform Builder</strong></p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Designing+Reliable+Scalable+Cloud+Infrastructure;Infrastructure+as+Code+%7C+Terraform+%7C+Ansible;Kubernetes+%7C+Docker+%7C+ArgoCD+%7C+GitOps;SRE+Practices+-+SLOs%2C+Error+Budgets%2C+Toil+Reduction;DevSecOps+%7C+CI%2FCD+Automation+%7C+Observability;Open+to+Cloud+and+Platform+Engineering+Roles" alt="Typing SVG" />
