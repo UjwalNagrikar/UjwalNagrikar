@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Ujwal Nagrikar</h1>
-<p><strong>Cloud Engineer | DevOps & SRE Specialist | Platform Builder</strong></p>
+<p><strong>DevOps Engineer | Site Reliability Engineer (SRE) | Cloud Engineer </strong></p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Designing+Reliable+Scalable+Cloud+Infrastructure;Infrastructure+as+Code+%7C+Terraform+%7C+Ansible;Kubernetes+%7C+Docker+%7C+ArgoCD+%7C+GitOps;SRE+Practices+-+SLOs%2C+Error+Budgets%2C+Toil+Reduction;DevSecOps+%7C+CI%2FCD+Automation+%7C+Observability;Open+to+Cloud+and+Platform+Engineering+Roles" alt="Typing SVG" />
@@ -12,7 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-nagrikar-2631aa273/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwalnagrikar@mail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UjwalNagrikar)
-[![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/ujwalnagrikar)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 
 </div>
@@ -72,12 +71,8 @@ available_for: Full-time & Contract roles (India · Singapore · Hong Kong · Eu
 
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🏗️ Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
