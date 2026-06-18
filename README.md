@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ujwal%20Nagrikar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cloud%20Engineer%20%E2%80%A2%20DevOps%20%26%20SRE%20Specialist%20%E2%80%A2%20Platform%20Builder&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ujwal%20Nagrikar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cloud%20Engineer%20|%20DevOps%20%26%20SRE%20Specialist%20|%20Platform%20Builder&descAlignY=58&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Designing+Reliable%2C+Scalable+Cloud+Infrastructure+%F0%9F%9A%80;Infrastructure+as+Code+%7C+Terraform+%7C+Ansible;Kubernetes+%7C+Docker+%7C+ArgoCD+%7C+GitOps;SRE+Practices+%E2%80%94+SLOs%2C+Error+Budgets%2C+Toil+Reduction;DevSecOps+%7C+CI%2FCD+Automation+%7C+Observability;Open+to+Cloud+%26+Platform+Engineering+Roles+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Designing+Reliable+Scalable+Cloud+Infrastructure;Infrastructure+as+Code+%7C+Terraform+%7C+Ansible;Kubernetes+%7C+Docker+%7C+ArgoCD+%7C+GitOps;SRE+Practices+-+SLOs%2C+Error+Budgets%2C+Toil+Reduction;DevSecOps+%7C+CI%2FCD+Automation+%7C+Observability;Open+to+Cloud+and+Platform+Engineering+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@
 ```yaml
 name: Ujwal Nagrikar
 role: Cloud & DevOps Engineer  ·  Site Reliability Engineer (Aspiring)
-location: Nagpur, India 🇮🇳
+location: Nagpur, India
 education: BCCA — G. H. Raisoni College of Engineering & Management (2027)
 
 engineering_philosophy: >
@@ -47,6 +47,23 @@ currently_exploring:
 
 available_for: Full-time & Contract roles (India · Singapore · Hong Kong · Europe)
 ```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UjwalNagrikar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjwalNagrikar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=UjwalNagrikar&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -275,7 +292,7 @@ available_for: Full-time & Contract roles (India · Singapore · Hong Kong · Eu
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwalnagrikar@mail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UjwalNagrikar)
 
-*💼 Open to full-time and contract roles in **Cloud Infrastructure**, **DevOps**, **Site Reliability Engineering**, and **Platform Engineering**.*
+*Open to full-time and contract roles in Cloud Infrastructure, DevOps, Site Reliability Engineering, and Platform Engineering.*
 
 </div>
 
