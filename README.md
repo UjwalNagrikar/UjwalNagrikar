@@ -1,16 +1,16 @@
 <div align="center">
 
 <h1>Ujwal Nagrikar</h1>
-<p><strong>DevOps Engineer | Site Reliability Engineer (SRE) | Cloud Engineer </strong></p>
+<p><strong>DevOps Engineer | Site Reliability Engineer (SRE) | Cloud Engineer</strong></p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Designing+Reliable+Scalable+Cloud+Infrastructure;Infrastructure+as+Code+%7C+Terraform+%7C+Ansible;Kubernetes+%7C+Docker+%7C+ArgoCD+%7C+GitOps;SRE+Practices+-+SLOs%2C+Error+Budgets%2C+Toil+Reduction;DevSecOps+%7C+CI%2FCD+Automation+%7C+Observability;Open+to+Cloud+and+Platform+Engineering+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Cloud-Native+Platforms+%7C+Kubernetes+%7C+AWS+%2F+GCP;Infrastructure+as+Code+-+Terraform+%7C+Ansible+%7C+Helm;GitOps+%7C+ArgoCD+%7C+Jenkins+%7C+GitHub+Actions;SRE+Practices+-+SLIs%2C+SLOs%2C+Error+Budgets%2C+MTTR;GPU+%2F+LLM+Infra+-+vLLM+%7C+CUDA+%7C+NVIDIA+T4;Open+to+DevOps+%2F+SRE+%2F+Cloud+Engineer+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-nagrikar-2631aa273/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwalnagrikar@mail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ujwal-nagrikar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwalnagrikar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UjwalNagrikar)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 
@@ -22,30 +22,27 @@
 
 ```yaml
 name: Ujwal Nagrikar
-role: Cloud & DevOps Engineer  ·  Site Reliability Engineer (Aspiring)
+role: DevOps Engineer · Site Reliability Engineer (Aspiring) · Cloud Engineer
 location: Nagpur, India
-education: BCCA — G. H. Raisoni College of Engineering & Management (2027)
+education: BCCA — G. H. Raisoni College of Engineering & Management (2024 – 2027)
 
-engineering_philosophy: >
-  Build infrastructure that heals itself, pipelines that enforce quality,
-  and systems measured by reliability — not just uptime.
+summary: >
+  DevOps Engineer focused on cloud-native platforms, Kubernetes, and infrastructure
+  automation across AWS and GCP. Experienced building and managing containerized
+  environments with Terraform, Helm, GitOps, Jenkins, GitHub Actions, Prometheus,
+  and Grafana. Apply SRE practices — SLIs/SLOs, monitoring, incident response,
+  automated remediation, capacity planning — to keep systems dependable. Hands-on
+  with GPU-based AI infrastructure and LLM deployment using vLLM, NVIDIA CUDA,
+  and Tesla T4.
 
 core_focus:
-  - Production-grade Kubernetes clusters on AWS EKS & GCP GKE
-  - Infrastructure as Code — Terraform, Helm, GitOps with ArgoCD
-  - CI/CD automation with security gates (SAST, SCA, container scanning)
-  - SRE fundamentals — SLIs, SLOs, error budgets, toil elimination
-  - Observability stacks — Prometheus, Grafana, distributed tracing
-  - Cloud cost optimisation & right-sizing strategies
+  - Kubernetes observability & automated remediation (Prometheus/Alertmanager-driven)
+  - GitOps CI/CD pipelines with security gates (GitHub Actions, ArgoCD, Trivy)
+  - Infrastructure as Code — Terraform, Helm, Ansible
+  - SRE fundamentals — SLIs, SLOs, error budgets, MTTR reduction, DORA metrics
+  - GPU / LLM infrastructure — vLLM model serving on Kubernetes with NVIDIA GPUs
 
-currently_exploring:
-  - Advanced Kubernetes — Istio service mesh, Workload Identity, RBAC hardening
-  - OpenTelemetry for distributed tracing across microservices
-  - Chaos engineering — fault injection and resilience validation
-  - Multi-cloud & hybrid cloud architecture (AWS + GCP)
-  - Compliance-as-code and zero-trust networking principles
-
-available_for: Full-time & Contract roles (India · Singapore · Hong Kong · Europe)
+available_for: Full-time & Internship roles — DevOps / SRE / Cloud / Platform Engineering
 ```
 
 ---
@@ -71,164 +68,121 @@ available_for: Full-time & Contract roles (India · Singapore · Hong Kong · Eu
 
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### 🏗️ Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🐳 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GKE](https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![K3s](https://img.shields.io/badge/K3s-FFC61C?style=for-the-badge&logo=k3s&logoColor=black)
 
 ### ⚙️ CI/CD & GitOps
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD_GitOps-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
 ### 🔒 Security & DevSecOps
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_Dep_Check-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Binary Authorization](https://img.shields.io/badge/Binary_Authorization-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### 📊 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+
+### 🤖 AI / LLM & GPU Infrastructure
+![vLLM](https://img.shields.io/badge/vLLM-6E56CF?style=for-the-badge&logo=pytorch&logoColor=white)
+![CUDA](https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen2.5-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
 
 ### 💻 OS, Scripting & Automation
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔧 Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 <details open>
-<summary><b>🔐 DevSecOps CI/CD Pipeline on GCP GKE</b> &nbsp;
+<summary><b>📡 Kubernetes Observability & Automated Remediation</b> &nbsp;
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
+</summary>
+
+<br/>
+
+> A closed-loop observability and self-healing platform for Kubernetes workloads, built around a 99.9% availability SLO and error-budget-driven decision making.
+
+- ✅ Defined an **availability SLO of 99.9%** backed by SLIs for request success rate, p95/p99 latency, error rate, and pod availability
+- ✅ Instrumented workloads with **custom Prometheus metrics** and built **Grafana dashboards** for the four golden signals
+- ✅ Configured **Alertmanager rules** for high error rate, high latency, crash-loops, CPU/memory pressure, and failed deployments — reducing alert noise
+- ✅ Built a **closed-loop automated remediation pipeline** (Prometheus → Alertmanager → Python/Bash restart/rollback) that auto-recovers common failures and cuts MTTR
+- ✅ Automated post-deploy smoke tests with **ArgoCD drift detection & rollback**, tracking availability, MTTR, error rate, deployment frequency, and change-failure rate
+
+**Stack:** Kubernetes · Prometheus · Grafana · Alertmanager · Python · Bash · ArgoCD · Helm
+
+</details>
+
+---
+
+<details open>
+<summary><b>🔐 Automated CI/CD Platform with Security Enforcement on GKE</b> &nbsp;
   <img src="https://img.shields.io/badge/GKE-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white"/>
 </summary>
 
 <br/>
 
-> Production-hardened GitOps pipeline deploying containerised workloads to a private GKE cluster, with enforced security gates at every stage of the SDLC.
-
-| Layer | Implementation |
-|-------|---------------|
-| 🏗️ Infrastructure | Terraform — private GKE cluster, Workload Identity, VPC, Cloud NAT |
-| 🔄 CI/CD | GitHub Actions — build → Trivy scan → SonarCloud gate → ArgoCD deploy |
-| 🔒 Security | Binary Authorization, OWASP Dependency Check, SCA, SAST quality gates |
-| 📦 Delivery | ArgoCD GitOps — automated rollout on every merged commit to `main` |
-| 📊 Reliability | Helm chart with resource limits, liveness/readiness probes, PodDisruptionBudgets |
-
-**Key outcomes:** Supply chain security enforced end-to-end · Zero manual deployment steps · Declarative cluster state via Git as single source of truth
-
-</details>
-
----
-
-<details open>
-<summary><b>☸️ Three-Tier Microservices on AWS EKS</b> &nbsp;
-  <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-</summary>
-
-<br/>
-
-> End-to-end three-tier cloud-native architecture (frontend · API · database) deployed on AWS EKS with Terraform-provisioned infrastructure and production-grade availability controls.
-
-- ✅ **Multi-node EKS cluster** with managed node groups, auto-scaling, and IAM Roles for Service Accounts (IRSA)
-- ✅ **Zero-downtime deployments** via rolling update strategy and blue-green switchover
-- ✅ **RBAC, resource quotas & namespace isolation** — least-privilege access and workload boundaries enforced
-- ✅ **Terraform module library** for reproducible, auditable infrastructure across environments
-- ✅ **AWS ALB Ingress Controller** with SSL termination and path-based routing
-
-</details>
-
----
-
-<details open>
-<summary><b>🤖 MLOps Kubernetes Anomaly Detector</b> &nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-</summary>
-
-<br/>
-
-> Kubernetes resource anomaly detector using an Isolation Forest ML model, served via FastAPI and shipped to a cluster through a fully automated CI/CD pipeline.
-
-- ✅ **Isolation Forest** model detects CPU/memory anomalies from Kubernetes metrics — unsupervised, no labelled data required
-- ✅ **FastAPI** inference endpoint — async, type-safe, OpenAPI-documented — deployed as a Kubernetes service
-- ✅ GitHub Actions pipeline: train → test → containerise → push → deploy to cluster
-- ✅ Prometheus metrics endpoint for model drift and latency tracking
-
-</details>
-
----
-
-<details open>
-<summary><b>🏗️ Cloud Infrastructure Automation Suite</b> &nbsp;
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python_Boto3-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-</summary>
-
-<br/>
-
-> Declarative provisioning pipeline for AWS EC2 and S3 using Terraform with Python (boto3) automation scripts — eliminating manual cloud operations.
+> A GitOps CI/CD platform on GKE that enforces security gates at every stage and gives full visibility into cluster and application health.
 
 | Metric | Outcome |
 |--------|---------|
-| ⚡ Deployment Speed | **75% faster** — IaC replaced click-ops provisioning entirely |
-| 💰 Cost Reduction | **30% lower** monthly AWS spend through automated right-sizing |
-| 📦 Reusability | Parameterised Terraform module library — consistent rollouts across environments |
-| 🔁 Idempotency | Full drift detection and state reconciliation via `terraform plan` gates |
+| ⚡ Provisioning Speed | **83% faster** — 2 hours → under 20 minutes with Terraform (VPC, private cluster, node pools, IAM, remote state) |
+| 🔁 Manual Release Steps | **Eliminated** — GitHub Actions + ArgoCD + Helm automate build, scan, promotion, and deployment |
+| 🛡️ Vulnerability Gating | **Trivy scanning** blocks high/critical CVEs before promotion to deployment environments |
+| 📊 Observability | Prometheus, Grafana, Loki & Alertmanager for centralized metrics, logs, dashboards, and alerts |
+| ☸️ Fleet Managed | **15 Kubernetes workloads** with ArgoCD drift detection — **80% less** manual deployment effort, tracked via DORA metrics |
+
+**Stack:** GCP GKE · Terraform · GitHub Actions · ArgoCD · Helm · Prometheus · Grafana · Loki · Trivy
 
 </details>
 
 ---
 
 <details open>
-<summary><b>🌐 UNiverse Capital — Production Cloud Deployment</b> &nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<summary><b>🤖 Production-Grade vLLM Deployment on Kubernetes</b> &nbsp;
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vLLM-6E56CF?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=k3s&logoColor=black"/>
 </summary>
 
 <br/>
 
-> Production deployment of a quantitative investment platform — containerised multi-service stack running on AWS EC2, with Kubernetes manifests for cluster-based scaling.
+> A GPU-powered LLM inference platform serving Qwen2.5-3B-Instruct on Kubernetes, exposing an OpenAI-compatible API validated end-to-end from GPU to monitoring.
 
-| Layer | Stack |
-|-------|-------|
-| 🚢 Containerisation | Docker Compose — multi-service orchestration with volume management |
-| 🔀 Ingress | Nginx reverse proxy — SSL termination, rate limiting, request routing |
-| ☸️ Kubernetes | Deployment manifests, Services, ConfigMaps, and PersistentVolumeClaims |
-| ☁️ Cloud | AWS EC2 — security groups, IAM instance profiles, EIP binding |
+- ✅ Engineered inference platform on AWS using **K3s + vLLM + Qwen2.5-3B-Instruct**, scheduling **1× Tesla T4 (15 GB VRAM)** via the NVIDIA Container Toolkit and K8s GPU device plugin
+- ✅ Diagnosed and resolved GPU-runtime/inference compatibility issues (CUDA, NVIDIA runtime, containerd, vLLM), including a **Tesla T4 sampling compatibility issue** — restored stable inference with **0 pod restarts**
+- ✅ Automated infrastructure and app deployment with **Terraform + Helm**, including persistent model storage, health checks, and GPU-aware scheduling
+- ✅ Implemented **Prometheus + Grafana** monitoring for GPU utilization/memory, CPU, memory, pod health, request metrics, and latency
+- ✅ Exposed and validated an **OpenAI-compatible API** (`/v1/models`, `/v1/chat/completions`) with HTTP 200 responses end-to-end
 
-**Key outcomes:** Zero-downtime deployment pipeline · Stateful workload managed via Docker volumes · Infrastructure portable to EKS via existing K8s manifests
+**Stack:** AWS · K3s · Kubernetes · vLLM · Qwen2.5 · NVIDIA T4 · CUDA · Helm · Terraform · Prometheus · Grafana · Go · Linux
 
 </details>
 
@@ -240,43 +194,21 @@ available_for: Full-time & Contract roles (India · Singapore · Hong Kong · Eu
 
 | Practice | Implementation |
 |----------|---------------|
-| **SLIs / SLOs** | Defining availability and latency targets; error budget tracking via Prometheus |
-| **Toil Elimination** | Automating repetitive operational tasks with Bash, Python, and IaC |
-| **Incident Response** | MTTD/MTTR reduction through structured alerting and runbook documentation |
-| **Observability** | Metrics → Logs → Traces pipeline with Prometheus, Grafana, and ELK |
-| **Chaos Engineering** | Fault injection planning for resilience validation in Kubernetes workloads |
-| **Capacity Planning** | HPA/VPA configuration and Kubernetes resource quota modelling |
+| **SLIs / SLOs** | 99.9% availability SLO with success rate, latency, and error-rate SLIs; error-budget-driven decisions |
+| **Toil Elimination** | Closed-loop remediation pipelines automating restarts/rollbacks with Python and Bash |
+| **Incident Response** | Alertmanager rules tuned to reduce noise and speed detection; MTTR tracked as a core metric |
+| **Observability** | Prometheus, Grafana, Loki, and ELK across Kubernetes and GPU/LLM workloads |
+| **Delivery Metrics** | DORA metrics — deployment frequency, change-failure rate, MTTR — tracked via ArgoCD-managed fleets |
+| **Security Gates** | Trivy vulnerability scanning integrated into CI to block risky artifacts pre-promotion |
 
 </div>
 
 ---
 
-## 🎯 Currently Exploring
+## 🎓 Education
 
-<div align="center">
-
-| 🔭 Topic | 📌 Focus |
-|---------|---------|
-| **Service Mesh** | Istio mTLS, traffic shaping, and circuit breaking on Kubernetes |
-| **OpenTelemetry** | Distributed tracing instrumentation across microservices |
-| **Chaos Engineering** | Systematic failure injection and resilience validation |
-| **Multi-Cloud** | Hybrid cloud strategies across AWS and GCP |
-| **Security Automation** | Compliance-as-code and zero-trust networking patterns |
-| **Quant Systems** | Python-based backtesting engines, NSE futures, statistical strategies |
-
-</div>
-
----
-
-## 🎓 Education & Certifications
-
-🎓 **BCCA** — Bachelor of Commerce in Computer Applications  
-&nbsp;&nbsp;&nbsp;&nbsp;G. H. Raisoni College of Engineering & Management, Nagpur · Expected 2027
-
-**Certifications (Pursuing / Planned):**
-
-![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CKA](https://img.shields.io/badge/CKA_Certified_Kubernetes_Admin-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+🎓 **Bachelor of Commerce in Computer Applications (BCCA)**
+&nbsp;&nbsp;&nbsp;&nbsp;G. H. Raisoni College of Engineering & Management, Nagpur, India · 2024 – 2027
 
 ---
 
@@ -284,11 +216,243 @@ available_for: Full-time & Contract roles (India · Singapore · Hong Kong · Eu
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-nagrikar-2631aa273/)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwalnagrikar@mail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ujwal-nagrikar)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwalnagrikar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UjwalNagrikar)
 
-*Open to full-time and contract roles in Cloud Infrastructure, DevOps, Site Reliability Engineering, and Platform Engineering.*
+*Open to DevOps, Site Reliability Engineering, Cloud Engineering, and Platform Engineering roles.*
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div><div align="center">
+
+<h1>Ujwal Nagrikar</h1>
+<p><strong>DevOps Engineer | Site Reliability Engineer (SRE) | Cloud Engineer</strong></p>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Cloud-Native+Platforms+%7C+Kubernetes+%7C+AWS+%2F+GCP;Infrastructure+as+Code+-+Terraform+%7C+Ansible+%7C+Helm;GitOps+%7C+ArgoCD+%7C+Jenkins+%7C+GitHub+Actions;SRE+Practices+-+SLIs%2C+SLOs%2C+Error+Budgets%2C+MTTR;GPU+%2F+LLM+Infra+-+vLLM+%7C+CUDA+%7C+NVIDIA+T4;Open+to+DevOps+%2F+SRE+%2F+Cloud+Engineer+Roles" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ujwal-nagrikar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwalnagrikar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UjwalNagrikar)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```yaml
+name: Ujwal Nagrikar
+role: DevOps Engineer · Site Reliability Engineer (Aspiring) · Cloud Engineer
+location: Nagpur, India
+education: BCCA — G. H. Raisoni College of Engineering & Management (2024 – 2027)
+
+summary: >
+  DevOps Engineer focused on cloud-native platforms, Kubernetes, and infrastructure
+  automation across AWS and GCP. Experienced building and managing containerized
+  environments with Terraform, Helm, GitOps, Jenkins, GitHub Actions, Prometheus,
+  and Grafana. Apply SRE practices — SLIs/SLOs, monitoring, incident response,
+  automated remediation, capacity planning — to keep systems dependable. Hands-on
+  with GPU-based AI infrastructure and LLM deployment using vLLM, NVIDIA CUDA,
+  and Tesla T4.
+
+core_focus:
+  - Kubernetes observability & automated remediation (Prometheus/Alertmanager-driven)
+  - GitOps CI/CD pipelines with security gates (GitHub Actions, ArgoCD, Trivy)
+  - Infrastructure as Code — Terraform, Helm, Ansible
+  - SRE fundamentals — SLIs, SLOs, error budgets, MTTR reduction, DORA metrics
+  - GPU / LLM infrastructure — vLLM model serving on Kubernetes with NVIDIA GPUs
+
+available_for: Full-time & Internship roles — DevOps / SRE / Cloud / Platform Engineering
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UjwalNagrikar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjwalNagrikar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=UjwalNagrikar&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### 🏗️ Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GKE](https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![K3s](https://img.shields.io/badge/K3s-FFC61C?style=for-the-badge&logo=k3s&logoColor=black)
+
+### ⚙️ CI/CD & GitOps
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### 🔒 Security & DevSecOps
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+
+### 🤖 AI / LLM & GPU Infrastructure
+![vLLM](https://img.shields.io/badge/vLLM-6E56CF?style=for-the-badge&logo=pytorch&logoColor=white)
+![CUDA](https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen2.5-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
+
+### 💻 OS, Scripting & Automation
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<details open>
+<summary><b>📡 Kubernetes Observability & Automated Remediation</b> &nbsp;
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
+</summary>
+
+<br/>
+
+> A closed-loop observability and self-healing platform for Kubernetes workloads, built around a 99.9% availability SLO and error-budget-driven decision making.
+
+- ✅ Defined an **availability SLO of 99.9%** backed by SLIs for request success rate, p95/p99 latency, error rate, and pod availability
+- ✅ Instrumented workloads with **custom Prometheus metrics** and built **Grafana dashboards** for the four golden signals
+- ✅ Configured **Alertmanager rules** for high error rate, high latency, crash-loops, CPU/memory pressure, and failed deployments — reducing alert noise
+- ✅ Built a **closed-loop automated remediation pipeline** (Prometheus → Alertmanager → Python/Bash restart/rollback) that auto-recovers common failures and cuts MTTR
+- ✅ Automated post-deploy smoke tests with **ArgoCD drift detection & rollback**, tracking availability, MTTR, error rate, deployment frequency, and change-failure rate
+
+**Stack:** Kubernetes · Prometheus · Grafana · Alertmanager · Python · Bash · ArgoCD · Helm
+
+</details>
+
+---
+
+<details open>
+<summary><b>🔐 Automated CI/CD Platform with Security Enforcement on GKE</b> &nbsp;
+  <img src="https://img.shields.io/badge/GKE-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white"/>
+</summary>
+
+<br/>
+
+> A GitOps CI/CD platform on GKE that enforces security gates at every stage and gives full visibility into cluster and application health.
+
+| Metric | Outcome |
+|--------|---------|
+| ⚡ Provisioning Speed | **83% faster** — 2 hours → under 20 minutes with Terraform (VPC, private cluster, node pools, IAM, remote state) |
+| 🔁 Manual Release Steps | **Eliminated** — GitHub Actions + ArgoCD + Helm automate build, scan, promotion, and deployment |
+| 🛡️ Vulnerability Gating | **Trivy scanning** blocks high/critical CVEs before promotion to deployment environments |
+| 📊 Observability | Prometheus, Grafana, Loki & Alertmanager for centralized metrics, logs, dashboards, and alerts |
+| ☸️ Fleet Managed | **15 Kubernetes workloads** with ArgoCD drift detection — **80% less** manual deployment effort, tracked via DORA metrics |
+
+**Stack:** GCP GKE · Terraform · GitHub Actions · ArgoCD · Helm · Prometheus · Grafana · Loki · Trivy
+
+</details>
+
+---
+
+<details open>
+<summary><b>🤖 Production-Grade vLLM Deployment on Kubernetes</b> &nbsp;
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vLLM-6E56CF?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=k3s&logoColor=black"/>
+</summary>
+
+<br/>
+
+> A GPU-powered LLM inference platform serving Qwen2.5-3B-Instruct on Kubernetes, exposing an OpenAI-compatible API validated end-to-end from GPU to monitoring.
+
+- ✅ Engineered inference platform on AWS using **K3s + vLLM + Qwen2.5-3B-Instruct**, scheduling **1× Tesla T4 (15 GB VRAM)** via the NVIDIA Container Toolkit and K8s GPU device plugin
+- ✅ Diagnosed and resolved GPU-runtime/inference compatibility issues (CUDA, NVIDIA runtime, containerd, vLLM), including a **Tesla T4 sampling compatibility issue** — restored stable inference with **0 pod restarts**
+- ✅ Automated infrastructure and app deployment with **Terraform + Helm**, including persistent model storage, health checks, and GPU-aware scheduling
+- ✅ Implemented **Prometheus + Grafana** monitoring for GPU utilization/memory, CPU, memory, pod health, request metrics, and latency
+- ✅ Exposed and validated an **OpenAI-compatible API** (`/v1/models`, `/v1/chat/completions`) with HTTP 200 responses end-to-end
+
+**Stack:** AWS · K3s · Kubernetes · vLLM · Qwen2.5 · NVIDIA T4 · CUDA · Helm · Terraform · Prometheus · Grafana · Go · Linux
+
+</details>
+
+---
+
+## 📈 SRE & Reliability Focus
+
+<div align="center">
+
+| Practice | Implementation |
+|----------|---------------|
+| **SLIs / SLOs** | 99.9% availability SLO with success rate, latency, and error-rate SLIs; error-budget-driven decisions |
+| **Toil Elimination** | Closed-loop remediation pipelines automating restarts/rollbacks with Python and Bash |
+| **Incident Response** | Alertmanager rules tuned to reduce noise and speed detection; MTTR tracked as a core metric |
+| **Observability** | Prometheus, Grafana, Loki, and ELK across Kubernetes and GPU/LLM workloads |
+| **Delivery Metrics** | DORA metrics — deployment frequency, change-failure rate, MTTR — tracked via ArgoCD-managed fleets |
+| **Security Gates** | Trivy vulnerability scanning integrated into CI to block risky artifacts pre-promotion |
+
+</div>
+
+---
+
+## 🎓 Education
+
+🎓 **Bachelor of Commerce in Computer Applications (BCCA)**
+&nbsp;&nbsp;&nbsp;&nbsp;G. H. Raisoni College of Engineering & Management, Nagpur, India · 2024 – 2027
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ujwal-nagrikar)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwalnagrikar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UjwalNagrikar)
+
+*Open to DevOps, Site Reliability Engineering, Cloud Engineering, and Platform Engineering roles.*
 
 </div>
 
