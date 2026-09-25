@@ -47,22 +47,6 @@ available_for: Full-time & Internship roles — DevOps / SRE / Cloud / Platform 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UjwalNagrikar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjwalNagrikar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=UjwalNagrikar&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## 🛠️ Tech Stack & Expertise
 
