@@ -117,43 +117,35 @@ My engineering approach is product-minded. I define SLOs before dashboards, auto
 
 <table>
   <tr>
-    <th align="left">Domain</th>
-    <th align="center">Proficiency</th>
+    <th align="left" width="240">Domain</th>
     <th align="left">Details</th>
   </tr>
   <tr>
     <td><b>LLM Deployment</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/Intermediate-6d28d9?style=flat-square" alt="Intermediate" /></td>
     <td>Containerized LLM services, configuration management, rollout strategies on Kubernetes</td>
   </tr>
   <tr>
     <td><b>Model Serving</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/Intermediate-6d28d9?style=flat-square" alt="Intermediate" /></td>
     <td>Inference endpoints, autoscaling, latency and throughput tuning</td>
   </tr>
   <tr>
     <td><b>Inference Infrastructure</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/Intermediate-6d28d9?style=flat-square" alt="Intermediate" /></td>
     <td>Scalable serving platforms with observability and cost awareness</td>
   </tr>
   <tr>
     <td><b>GPU Workloads</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/Working-4f46e5?style=flat-square" alt="Working" /></td>
     <td>NVIDIA GPUs, CUDA runtime, containerized GPU jobs</td>
   </tr>
   <tr>
     <td><b>GPU Orchestration</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/Working-4f46e5?style=flat-square" alt="Working" /></td>
     <td>Kubernetes GPU scheduling, NVIDIA GPU Operator, device plugins</td>
   </tr>
   <tr>
     <td><b>GPU Resource Management</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/Working-4f46e5?style=flat-square" alt="Working" /></td>
     <td>Resource quotas, node pools, utilization monitoring with Prometheus and Grafana</td>
   </tr>
   <tr>
     <td><b>Quantitative Research</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/Working-4f46e5?style=flat-square" alt="Working" /></td>
     <td>Python-based algorithmic trading framework under UNiverse Capital</td>
   </tr>
 </table>
